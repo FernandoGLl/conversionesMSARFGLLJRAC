@@ -1,0 +1,16 @@
+C:\BDII\conversionesMSARFGLLJRAC\obj\Debug\net6.0-windows\conversionesMSARFGLLJRAC.Form1.resources
+C:\BDII\conversionesMSARFGLLJRAC\obj\Debug\net6.0-windows\conversionesMSARFGLLJRAC.csproj.GenerateResource.cache
+C:\BDII\conversionesMSARFGLLJRAC\obj\Debug\net6.0-windows\conversionesMSARFGLLJRAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\BDII\conversionesMSARFGLLJRAC\obj\Debug\net6.0-windows\conversionesMSARFGLLJRAC.AssemblyInfoInputs.cache
+C:\BDII\conversionesMSARFGLLJRAC\obj\Debug\net6.0-windows\conversionesMSARFGLLJRAC.AssemblyInfo.cs
+C:\BDII\conversionesMSARFGLLJRAC\obj\Debug\net6.0-windows\conversionesMSARFGLLJRAC.csproj.CoreCompileInputs.cache
+C:\BDII\conversionesMSARFGLLJRAC\bin\Debug\net6.0-windows\conversionesMSARFGLLJRAC.exe
+C:\BDII\conversionesMSARFGLLJRAC\bin\Debug\net6.0-windows\conversionesMSARFGLLJRAC.deps.json
+C:\BDII\conversionesMSARFGLLJRAC\bin\Debug\net6.0-windows\conversionesMSARFGLLJRAC.runtimeconfig.json
+C:\BDII\conversionesMSARFGLLJRAC\bin\Debug\net6.0-windows\conversionesMSARFGLLJRAC.dll
+C:\BDII\conversionesMSARFGLLJRAC\bin\Debug\net6.0-windows\conversionesMSARFGLLJRAC.pdb
+C:\BDII\conversionesMSARFGLLJRAC\obj\Debug\net6.0-windows\conversionesMSARFGLLJRAC.dll
+C:\BDII\conversionesMSARFGLLJRAC\obj\Debug\net6.0-windows\refint\conversionesMSARFGLLJRAC.dll
+C:\BDII\conversionesMSARFGLLJRAC\obj\Debug\net6.0-windows\conversionesMSARFGLLJRAC.pdb
+C:\BDII\conversionesMSARFGLLJRAC\obj\Debug\net6.0-windows\conversionesMSARFGLLJRAC.genruntimeconfig.cache
+C:\BDII\conversionesMSARFGLLJRAC\obj\Debug\net6.0-windows\ref\conversionesMSARFGLLJRAC.dll
